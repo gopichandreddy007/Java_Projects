@@ -35,6 +35,7 @@ public class GuessTheNumber{
     j = sc.nextInt();
 }
 System.out.println("thanks for playing");
+sc.close();
 
 
     }
